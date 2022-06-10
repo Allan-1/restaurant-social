@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1007046806650",
+    "project_id": "meetia-a4b70",
+    "storage_bucket": "meetia-a4b70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007046806650:android:e8fecab5636b5e8e627fc3",
+        "android_client_info": {
+          "package_name": "com.example.restaurantsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007046806650-avq84qg19v612v15aofshpsflk705gaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGpoiZjb0X1sZVgZ25AVOUO_Wx-ZhDi9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007046806650-avq84qg19v612v15aofshpsflk705gaq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1007046806650-62i50n7h2vrofl2f82pshq524g5ilhcf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.meetia.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
